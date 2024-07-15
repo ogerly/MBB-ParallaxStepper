@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/0fd924ae-7427-4bc9-9c5d-38df97f5d211
 
 ## Demo
 
-Eine Live-Demo des Projekts finden Sie auf [CodePen](https://codepen.io/your-pen-url).
+Eine Live-Demo des Projekts finden Sie auf [CodePen](https://codepen.io/ogerly/pen/WNqQxEX).
 
 ## Installation und Verwendung
 
